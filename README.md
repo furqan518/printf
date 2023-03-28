@@ -1,2 +1,2 @@
 0x11. C - printf
-This id a group project
+This is a group project created by Oyebanjo and George
